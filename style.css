@@ -1,0 +1,19 @@
+body {
+	height: 100%;
+	width: 100%;
+	font-family: "arial";
+	background-color: white;
+}
+#sheet{
+	margin: auto;
+	width:640px;
+	height: 640px;
+	border:0.5px solid black;
+}
+.box{
+	float:left;
+	display: inline-block;
+	box-sizing:border-box;
+	color:red;
+	border:0px solid black;
+}
